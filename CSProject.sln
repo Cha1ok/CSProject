@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "CSProject\ToDoL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wheather", "ConsoleApp1\Wheather.csproj", "{FFAA0160-B718-421D-A7F2-DBBE7DADC648}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsParcer", "NewsParcer\NewsParcer.csproj", "{F45ABAE1-1A96-4E2E-BB7B-CCB3A07A99D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "currencyConvertor", "currencyConvertor\currencyConvertor.csproj", "{56E6F756-1FFA-4B4E-80CB-C7CCA9F846EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{FFAA0160-B718-421D-A7F2-DBBE7DADC648}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFAA0160-B718-421D-A7F2-DBBE7DADC648}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFAA0160-B718-421D-A7F2-DBBE7DADC648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F45ABAE1-1A96-4E2E-BB7B-CCB3A07A99D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45ABAE1-1A96-4E2E-BB7B-CCB3A07A99D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45ABAE1-1A96-4E2E-BB7B-CCB3A07A99D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45ABAE1-1A96-4E2E-BB7B-CCB3A07A99D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56E6F756-1FFA-4B4E-80CB-C7CCA9F846EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E6F756-1FFA-4B4E-80CB-C7CCA9F846EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E6F756-1FFA-4B4E-80CB-C7CCA9F846EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E6F756-1FFA-4B4E-80CB-C7CCA9F846EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
