@@ -9,7 +9,7 @@ import requests
 
 # === НАСТРОЙКИ ===
 DOCUMENTS_FOLDER = "C:/Users/79186/PycharmProjects/BOT/doc"
-HF_API_TOKEN = "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"  # Вставьте ваш токен от Hugging Face
+HF_API_TOKEN = ""  # Вставьте ваш токен от Hugging Face
 HF_API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1"  # Корректный URL
 CHUNK_SIZE = 5000
 
