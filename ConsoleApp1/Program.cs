@@ -46,7 +46,7 @@ namespace WeatherApp
 
     internal class Program
     {
-        static readonly string API = "51dd1e0e112972d32bf0a64c9b80cf67";
+        static readonly string API = "";
         static readonly string BASE_URL = "http://api.openweathermap.org/data/2.5/forecast";
 
         static async Task Main(string[] args)
