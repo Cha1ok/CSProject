@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "currencyConvertor", "curren
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixSolver1", "MatrixSolver1\MatrixSolver1.csproj", "{6ACB9AC6-E427-43A8-9538-DF8C0BC1D16C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnDecrypt", "EnDecrypt\EnDecrypt.csproj", "{0076A71E-AEFC-4D1B-9242-0739D30744DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6ACB9AC6-E427-43A8-9538-DF8C0BC1D16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ACB9AC6-E427-43A8-9538-DF8C0BC1D16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ACB9AC6-E427-43A8-9538-DF8C0BC1D16C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0076A71E-AEFC-4D1B-9242-0739D30744DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0076A71E-AEFC-4D1B-9242-0739D30744DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0076A71E-AEFC-4D1B-9242-0739D30744DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0076A71E-AEFC-4D1B-9242-0739D30744DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
