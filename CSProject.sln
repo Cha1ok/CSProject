@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixSolver1", "MatrixSolv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnDecrypt", "EnDecrypt\EnDecrypt.csproj", "{0076A71E-AEFC-4D1B-9242-0739D30744DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BD_Test", "BD_Test\BD_Test.csproj", "{98356358-DF93-4AE2-A9C2-264CC58D35EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{0076A71E-AEFC-4D1B-9242-0739D30744DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0076A71E-AEFC-4D1B-9242-0739D30744DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0076A71E-AEFC-4D1B-9242-0739D30744DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98356358-DF93-4AE2-A9C2-264CC58D35EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98356358-DF93-4AE2-A9C2-264CC58D35EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98356358-DF93-4AE2-A9C2-264CC58D35EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98356358-DF93-4AE2-A9C2-264CC58D35EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
